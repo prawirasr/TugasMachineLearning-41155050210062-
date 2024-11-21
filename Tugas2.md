@@ -1,4 +1,3 @@
-![Accuracy score](https://github.com/user-attachments/assets/12054300-60af-470d-8712-2709a2736bb1)Tugas Pertemuan 2 <br>
 Nama : Prawira Setia Ramdhani <br>
 Kelas : TIF – A2 <br>
 NPM : 41155050210062 <br>
