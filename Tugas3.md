@@ -2,6 +2,7 @@ Nama : Prawira Setia Ramdhani Kelas : TIF – A2 <br>
 NPM : 41155050210062 <br>
 Mata Kuliah Machine Learning <br> 
 TUGAS 3 
+
 A. Lakukan praktik dari https://youtu.be/5wwXKtLkyqs?si=fn88eveu_qbCC6b3 , buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini:
 1. Pengenalan Komponen Decision Tree: root, node, leaf <br>
    ![1 1](https://github.com/user-attachments/assets/946c673e-387a-4d2c-97cc-a65e27f7b957)
